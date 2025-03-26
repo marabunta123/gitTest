@@ -1,18 +1,20 @@
-{
-    "success": true,
-    "send": {
-        "first_name": "ENRIQUE",
-        "middle_name": "",
-        "last_name": "CHAVEZ",
-        "second_last_name": "",
-        "residence_address": "1535 Main Street",
-        "residence_state": "California",
-        "residence_city": "Los Angeles County",
-        "zip_code": "90015",
-        "email": "echavez@intermexusa.com",
-        "web_agent_user_id": "302355",
-        "hasRegisteredRecipients": true,
-        "userHasPreviousWire": true
+[
+    {
+        "success": true,
+        "send": {
+            "first_name": "ENRIQUE",
+            "middle_name": "",
+            "last_name": "CHAVEZ",
+            "second_last_name": "",
+            "residence_address": "1535 Main Street",
+            "residence_state": "California",
+            "residence_city": "Los Angeles County",
+            "zip_code": "90015",
+            "email": "echavez@intermexusa.com",
+            "web_agent_user_id": "302355",
+            "hasRegisteredRecipients": true,
+            "userHasPreviousWire": true
+        }
     }
-}
+]
 
