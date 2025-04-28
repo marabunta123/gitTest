@@ -1,0 +1,24 @@
+{
+    "recipients": [
+      {
+        "fullName": "Greg Uno",
+        "recipientId": 1,
+        "firstName": "Greg",
+        "middleName": "Uno",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1234",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Dos",
+        "recipientId": 2,
+        "firstName": "Greg",
+        "middleName": "Dos",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1235",
+        "hasBankAccount": false
+      }
+  ]
+}
