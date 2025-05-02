@@ -18,7 +18,7 @@
         "last1": "Montiel",
         "last2": "",
         "pinNumber": "1235",
-        "hasBankAccount": false
+        "hasBankAccount": true
       },
       {
         "fullName": "Greg Tres",
@@ -98,7 +98,7 @@
         "last1": "Montiel",
         "last2": "",
         "pinNumber": "12313",
-        "hasBankAccount": false
+        "hasBankAccount": true
       },
       {
         "fullName": "Greg Once",
@@ -118,7 +118,7 @@
         "last1": "Montiel",
         "last2": "",
         "pinNumber": "12315",
-        "hasBankAccount": false
+        "hasBankAccount": true
       }
   ]
 }
