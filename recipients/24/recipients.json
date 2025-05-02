@@ -1,0 +1,248 @@
+{
+    "recipients": [
+      {
+        "fullName": "Greg Uno",
+        "recipientId": 1,
+        "firstName": "Greg",
+        "middleName": "Uno",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1234",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Dos",
+        "recipientId": 2,
+        "firstName": "Greg",
+        "middleName": "Dos",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1235",
+        "hasBankAccount": true
+      },
+      {
+        "fullName": "Greg Tres",
+        "recipientId": 3,
+        "firstName": "Greg",
+        "middleName": "Tres",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1236",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Cuatro",
+        "recipientId": 4,
+        "firstName": "Greg",
+        "middleName": "Cuatro",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1237",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Cinco",
+        "recipientId": 5,
+        "firstName": "Greg",
+        "middleName": "Cinco",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1238",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Seis",
+        "recipientId": 6,
+        "firstName": "Greg",
+        "middleName": "Seis",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "1239",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Siete",
+        "recipientId": 7,
+        "firstName": "Greg",
+        "middleName": "Siete",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "12310",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Ocho",
+        "recipientId": 8,
+        "firstName": "Greg",
+        "middleName": "Ocho",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "12311",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Nueve",
+        "recipientId": 9,
+        "firstName": "Greg",
+        "middleName": "Nueve",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "12312",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Diez",
+        "recipientId": 10,
+        "firstName": "Greg",
+        "middleName": "Diez",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "12313",
+        "hasBankAccount": true
+      },
+      {
+        "fullName": "Greg Once",
+        "recipientId": 11,
+        "firstName": "Greg",
+        "middleName": "Once",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "12314",
+        "hasBankAccount": false
+      },
+      {
+        "fullName": "Greg Doce",
+        "recipientId": 12,
+        "firstName": "Greg",
+        "middleName": "Doce",
+        "last1": "Montiel",
+        "last2": "",
+        "pinNumber": "12315",
+        "hasBankAccount": true
+      },
+      {
+        "recipients": [
+          {
+            "fullName": "Greg Trece",
+            "recipientId": 1,
+            "firstName": "Greg",
+            "middleName": "Trece",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "1234",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Catorce",
+            "recipientId": 2,
+            "firstName": "Greg",
+            "middleName": "Catorce",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "1235",
+            "hasBankAccount": true
+          },
+          {
+            "fullName": "Greg Quince",
+            "recipientId": 3,
+            "firstName": "Greg",
+            "middleName": "Quince",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "1236",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Dieciséis",
+            "recipientId": 4,
+            "firstName": "Greg",
+            "middleName": "Cuatro",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "1237",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Diecisiete",
+            "recipientId": 5,
+            "firstName": "Greg",
+            "middleName": "Diecisiete",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "1238",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Dieciocho",
+            "recipientId": 6,
+            "firstName": "Greg",
+            "middleName": "Dieciocho",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "1239",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Diecinueve",
+            "recipientId": 7,
+            "firstName": "Greg",
+            "middleName": "Diecinueve",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "12310",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Veinte",
+            "recipientId": 8,
+            "firstName": "Greg",
+            "middleName": "Veinte",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "12311",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Veintiuno",
+            "recipientId": 9,
+            "firstName": "Greg",
+            "middleName": "Veintiuno",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "12312",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Veintidos",
+            "recipientId": 10,
+            "firstName": "Greg",
+            "middleName": "Veintidos",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "12313",
+            "hasBankAccount": true
+          },
+          {
+            "fullName": "Greg Veintitres",
+            "recipientId": 11,
+            "firstName": "Greg",
+            "middleName": "Veintitres",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "12314",
+            "hasBankAccount": false
+          },
+          {
+            "fullName": "Greg Veinticuatro",
+            "recipientId": 12,
+            "firstName": "Greg",
+            "middleName": "Veinticuatro",
+            "last1": "Montiel",
+            "last2": "",
+            "pinNumber": "12315",
+            "hasBankAccount": true
+          }
+      ]
+    }
+  ]
+}
