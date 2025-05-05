@@ -1,17 +1,17 @@
 {
     "success": true,
     "send": {
-        "first_name": "Enrique",
-        "middle_name": "",
-        "last_name": "norecipients",
-        "second_last_name": "",
-        "residence_address": "1535 Main Street",
-        "residence_state": "California",
-        "residence_city": "Los Angeles County",
-        "zip_code": "90015",
-        "email": "echavez@intermexusa.com",
-        "web_agent_user_id": "302355",
+        "firstName": "Enrique",
+        "lastName": "NoRecipients",
+        "secondLastName": "",
+        "address": "Main Street 1535",
+        "state": "New York",
+        "city": "Queens County",
+        "country": "USA",
+        "zipCode": "11435",
+        "email": "AMIGOPAISANO-525528524748@INTERMEXUSA.COM",
+        "webAgentUserId": 338545,
         "hasRegisteredRecipients": false,
-        "userHasPreviousWire": true
+        "userHasPreviousWire": false
     }
 }
