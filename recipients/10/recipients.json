@@ -79,7 +79,7 @@
         "last2": "",
         "pinNumber": "12311",
         "hasBankAccount": false
-      }
+      },
       {
         "fullName": "Greg Nueve",
         "recipientId": 9,
@@ -99,7 +99,6 @@
         "last2": "",
         "pinNumber": "12313",
         "hasBankAccount": true
-      },
-     
+      }     
   ]
 }
