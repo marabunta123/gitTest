@@ -11,7 +11,7 @@
   "destCurrency": "MXN",
   "legalEntityCode": "BLLC",
   "senderPaymentMethodId": 3,
-  "receivingOptionId": 1,
+  "receivingOptionId": "1",
   "tranTypeId": 1,
   "deliveryType": "W",
   "styleId": 3,
