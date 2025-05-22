@@ -77,5 +77,6 @@
     "isAvailable": true,
     "isDefault": false
   },
+  "bank": {},
   "totalAmount": 23.99
 }      
