@@ -25,6 +25,7 @@
   "destState": "JALISCO",
   "destCity": "GUADALAJARA",
   "branchId": 94601,
+  "agPayerBranchLabel": "",
   "deptBankAdditionalInfo": null,
   "senderPaymentMethodDesc": "Debit Card",
   "cardTypeCode": "1", 
