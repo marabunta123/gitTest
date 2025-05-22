@@ -25,6 +25,7 @@
   "destState": "NUEVO LEON",
   "destCity": "MONTERREY",
   "branchId": 118697,
+  "agPayerBranchLabel": "BRANCH",
   "deptBankAdditionalInfo": null,
   "senderPaymentMethodDesc": "Debit Card",
   "cardTypeCode": "1", 
