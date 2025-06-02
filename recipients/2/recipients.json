@@ -1,9 +1,9 @@
 {
     "recipients": [
       {
-        "fullName": "Gregs Uno",
+        "fullName": "Greg Uno",
         "recipientId": 1,
-        "firstName": "Gregs",
+        "firstName": "Greg",
         "middleName": "Uno",
         "last1": "Montiel",
         "last2": "",
@@ -11,9 +11,9 @@
         "hasBankAccount": false
       },
       {
-        "fullName": "Grego Dos",
+        "fullName": "Greg Dos",
         "recipientId": 2,
-        "firstName": "Grego",
+        "firstName": "Greg",
         "middleName": "Dos",
         "last1": "Montiel",
         "last2": "",
