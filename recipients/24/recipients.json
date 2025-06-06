@@ -1,5 +1,32 @@
 {
     "recipients": [
+        {
+        "fullName": "Greg Bank",
+        "recipientId": 44917713,
+        "firstName": "Greg",        
+        "last1": "Bank",
+        "last2": "",
+        "pinNumber": "67272500128",
+        "hasBankAccount": true
+      },
+        {
+        "fullName": "Luis Tapia",
+        "recipientId": 44912463,
+        "firstName": "Luis",        
+        "last1": "Tapia",
+        "last2": "",
+        "pinNumber": "N411323053",
+        "hasBankAccount": true
+      },        
+        {
+        "fullName": "Ariel Morales",
+        "recipientId": 44917854,
+        "firstName": "Ariel",        
+        "last1": "Morales",
+        "last2": "",
+        "pinNumber": "N411329059",
+        "hasBankAccount": true
+      },
       {
         "fullName": "Greg Uno Montiel",
         "recipientId": 1,
