@@ -77,26 +77,39 @@
     "isDefault": false
   },
   "bank": {
-    "agPayerCode": "MX-0094",
-    "agPayerId": 68835,
-    "agPayerName": "BANORTE",
-    "agPayerBranchLabel": "BRANCH",
-    "bankID": 304,
-    "bankName": "BANORTE",
-    "depositInHq": true,
-    "depositNeedAccountType": false,
-    "depositNeedCPF": false,
-    "depositNeedBranchCode": false,
-    "depositNeedPurposeId": false,
-    "relationshipPurposeIds": null,
-    "branchId": 118697,
-    "destState": "NUEVO LEON",
-    "destCity": "MONTERREY",
-    "exRate": 17.4867,
-    "depositNeedRcvId": false,
-    "logoUrl": "https://imxonlineqa.blob.core.windows.net/webapimedia/Payers/MX-0094.png",
-    "branchCodeIsAlphanumeric": null,
-    "accountTypes": []
-  },
+        "agPayerCode": "MX-0211",
+        "agPayerId": 80601,
+        "agPayerName": "OTROS BANCOS APPRIZA",
+        "agPayerBranchLabel": "BRANCH",
+        "bankID": 318,
+        "bankName": "CITI BANK",
+        "depositInHq": true,
+        "depositNeedAccountType": false,
+        "depositNeedCPF": false,
+        "depositNeedBranchCode": false,
+        "depositNeedPurposeId": false,
+        "relationshipPurposeIds": null,
+        "branchId": 522507,
+        "destState": "AGUASCALIENTES",
+        "destCity": "AGUASCALIENTES",
+        "exRate": 17.07,
+        "depositNeedRcvId": false,
+        "logoUrl": "https://imxonlineqa.blob.core.windows.net/webapimedia/Default/Payer/payers-default.png",
+        "branchCodeIsAlphanumeric": null,
+        "accountTypes": [
+            {
+                "id": 129,
+                "name": "Account Number"
+            },
+            {
+                "id": 130,
+                "name": "Card Number"
+            },
+            {
+                "id": 131,
+                "name": "Interbank key"
+            }
+        ]
+    },
   "totalAmount": 23.99
 } 
