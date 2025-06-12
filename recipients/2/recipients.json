@@ -3,7 +3,7 @@
       {
         "fullName": "Greg Uno",
         "recipientId": 1,
-        "firstName": "Greg*",
+        "firstName": "Greg",
         "middleName": "Uno",
         "last1": "Montiel",
         "last2": "",
@@ -13,9 +13,9 @@
       {
         "fullName": "Greg Dos",
         "recipientId": 2,
-        "firstName": "Greg**",
+        "firstName": "Greg",
         "middleName": "Dos",
-        "last1": "Montiel",
+        "last1": "Chavez",
         "last2": "",
         "pinNumber": "1235",
         "hasBankAccount": true
