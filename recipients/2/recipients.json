@@ -1,21 +1,19 @@
 {
     "recipients": [
       {
-        "fullName": "Greg Uno Montiel",
+        "fullName": "Greg Uno",
         "recipientId": 1,
-        "firstName": "Greg",
-        "middleName": "Uno",
-        "last1": "Montiel",
+        "firstName": "Greg",        
+        "last1": "Uno",
         "last2": "",
         "pinNumber": "1234",
         "hasBankAccount": false
       },
       {
-        "fullName": "Greg Dos Chavez",
+        "fullName": "Greg Dos",
         "recipientId": 2,
-        "firstName": "Greg",
-        "middleName": "Dos",
-        "last1": "Chavez",
+        "firstName": "Greg",        
+        "last1": "Dos",
         "last2": "",
         "pinNumber": "1235",
         "hasBankAccount": true
