@@ -1,7 +1,7 @@
 {
     "recipients": [
       {
-        "fullName": "Greg Uno",
+        "fullName": "Greg Uno Montiel",
         "recipientId": 1,
         "firstName": "Greg",
         "middleName": "Uno",
@@ -11,7 +11,7 @@
         "hasBankAccount": false
       },
       {
-        "fullName": "Greg Dos",
+        "fullName": "Greg Dos Chavez",
         "recipientId": 2,
         "firstName": "Greg",
         "middleName": "Dos",
