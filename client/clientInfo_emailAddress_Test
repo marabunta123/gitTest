@@ -2,15 +2,15 @@
     "success": true,
     "send": {
         "firstName": "Enrique",
-        "lastName": "NoRecipients",
+        "lastName": "Chavez",
         "secondLastName": "",
-        "address": "Main Street 1535",
-        "state": "New York",
-        "city": "Queens County",
+        "address": "1535 Main Street",
+        "state": "California",
+        "city": "Los Angeles County",
         "country": "USA",
-        "zipCode": "11435",
+        "zipCode": "90015",
         "email": "INTERMEX-525528524748@INTERMEXUSA.COM",
-        "webAgentUserId": 338545,
+        "webAgentUserId": 342314,
         "hasRegisteredRecipients": true,
         "userHasPreviousWire": true
     }
