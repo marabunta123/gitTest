@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "send": {
+        "firstName": "Enrique",
+        "lastName": "Chavez",
+        "secondLastName": "",
+        "address": "1535 Main Street",
+        "state": "Unknown",
+        "city": "Los Angeles County",
+        "country": "USA",
+        "zipCode": "90015",
+        "email": "miemail@INTERMEXUSA.COM",
+        "webAgentUserId": 342314,
+        "hasRegisteredRecipients": true,
+        "userHasPreviousWire": true
+    }
+}
