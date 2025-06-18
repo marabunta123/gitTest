@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "send": {
+        "firstName": "Enrique",
+        "lastName": "New",
+        "secondLastName": "",
+        "address": "Main Street 1535",
+        "state": "New York",
+        "city": "Queens County",
+        "country": "USA",
+        "zipCode": "11435",
+        "email": "newuser@INTERMEXUSA.COM",
+        "webAgentUserId": 342315,
+        "hasRegisteredRecipients": false,
+        "userHasPreviousWire": false
+    }
+}
