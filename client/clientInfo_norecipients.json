@@ -5,7 +5,7 @@
         "lastName": "Chavez",
         "secondLastName": "",
         "address": "Main Street 1535",
-        "state": "New York",
+        "state": "undefined",
         "city": "Queens County",
         "country": "USA",
         "zipCode": "11435",
