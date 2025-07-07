@@ -37,7 +37,7 @@
   "destCountryAbbr": "MX",
   "destCountryFlagUrl": "https://imxonlineqa.blob.core.windows.net/webapimedia/Flags/MXN.png",
   "feeAmount": 3.99,
-  "exchangeRate":  17.4867,
+  "exchangeRate":  17.4877,
   "paymentMethod": "Debit Card ending in 1111",
   "isPaymentMethodActive": true,
   "userPaymentMethodId": 182171,
